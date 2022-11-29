@@ -6,5 +6,8 @@
 # Dosen Pengampu : pak Agung Nugroho S.Kom,.M.Kom  #
 
 
-# Tugas PBO Pertemuan ke-10 #
+#---Tugas PBO Pertemuan ke-10----#
 
+ #Langkah Membuat Abstract Class#
+ 
+ 
